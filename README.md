@@ -1,3 +1,3 @@
 # BodyBulker
 Android Studio App
-University Project for Mobile Apps
+University Prototype Project for Mobile Apps 
